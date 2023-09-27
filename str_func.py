@@ -1,5 +1,5 @@
 def convert_to_uppercase(input_string):
-    "false docstring"
+    "Convert to uppercase"
     return input_string.upper()
 
 def capitalize_first_letters(input_string):
